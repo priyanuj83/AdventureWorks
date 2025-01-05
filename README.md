@@ -1,6 +1,9 @@
 # AdventureWorks_PowerBI-Dashboard
 This project involved creating an interactive Power BI dashboard to analyze the AdventureWorks dataset, focusing on a bicycle manufacturing company's sales performance. The dashboard provides actionable insights into product performance, revenue trends, and customer segmentation.
 
+![image](https://github.com/user-attachments/assets/39da09a5-7612-4fba-a535-1ac382ea7a58)
+
+
 Key Features:
 Dashboard Design: Developed a 4-page interactive dashboard with page navigation features, drill-through capabilities, "what-if" analysis, and customer segmentation to identify high-value customers and optimize decision-making.
 Data Transformation: Performed ETL processes using Power Query Editor, cleaning and transforming raw data for analysis.
